@@ -1,3 +1,5 @@
+## local tests
+
 # Ingeniería de Soluciones con Inteligencia Artificial
 
 Este repositorio contiene todos los materiales, ejemplos y prácticas del curso **Ingeniería de Soluciones con Inteligencia Artificial**. El curso está organizado en tres grandes módulos (RA), cada uno con submódulos (IL) y ejemplos prácticos en Python y Jupyter.
